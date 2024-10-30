@@ -2,10 +2,13 @@
 title: "Tom Auer"
 ---
 
-This is a Quarto website.
+Tom Auer
+Lead Geospatial Data Scientist
+Center for Avian Population Studies
+Cornell Lab of Ornithology
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Description...
 
-```{r}
-1 + 1
-```
+Education
+
+Interests
