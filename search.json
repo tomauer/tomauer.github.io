@@ -1,16 +1,23 @@
 [
   {
+    "objectID": "pres.html",
+    "href": "pres.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tom Auer",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Photo by Mat Gilfedder\n\n\nLead Geospatial Data Scientist\nCenter for Avian Population Studies\nCornell Lab of Ornithology\n\n\nAbout\nI help lead a team of data scientists and engineers that translate raw participatory science data (eBird) into actionable data products about avian biodiversity (eBird Status and Trends). With a background in ornithology, geographic information science, and recent experience with machine learning, I enjoy sitting at the intersection of avian ecology and data science, working collaboratively to architect, scale, and deploy machine learning to generate usable data products for managing and conserving bird populations.\nGithub\nGoogle Scholar\nLinkedIn\neBird Profile\nBluesky\n\n\n\nEducation\nMSc Geography, 2009 The Pennsylvania State University\nBSc Biology, 2005 University of Minnesota–Duluth\n\n\nInterests & Experience\nSpecies Distribution Modeling\nMachine Learning (Predictive and Explainable)\nRandom Forests\nData Science Product Management\nMLOps\nParticipatory Science\nRemote Sensing\nGeovisualization\nGeographic Information Science\nOrnithology"
   }
 ]

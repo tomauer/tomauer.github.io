@@ -2,13 +2,36 @@
 title: "Tom Auer"
 ---
 
-Tom Auer
-Lead Geospatial Data Scientist
-Center for Avian Population Studies
-Cornell Lab of Ornithology
+![Photo by Mat Gilfedder](photo_resize.jpg)
 
-Description...
+**Lead Geospatial Data Scientist**\
+Center for Avian Population Studies\
+Cornell Lab of Ornithology\
 
-Education
+### About
 
-Interests
+I help lead a team of data scientists and engineers that translate raw participatory science data (eBird) into actionable data products about avian biodiversity (eBird Status and Trends). With a background in ornithology, geographic information science, and recent experience with machine learning, I enjoy sitting at the intersection of avian ecology and data science, working collaboratively to architect, scale, and deploy machine learning to generate usable data products for managing and conserving bird populations.
+
+[Github](https://github.com/tomauer){target="_blank"}\
+[Google Scholar](https://scholar.google.com/citations?user=-ctK6KUAAAAJ&hl=en){target="_blank"}\
+[LinkedIn](https://www.linkedin.com/in/tom-auer-6b0808256/){target="_blank"}\
+[eBird Profile](https://ebird.org/profile/MTkwMDY){target="_blank"}\
+[Bluesky](https://bsky.app/profile/tomauer.bsky.social){target="_blank"}\
+
+### Education
+
+MSc Geography, 2009 The Pennsylvania State University\
+BSc Biology, 2005 University of Minnesota--Duluth
+
+### Interests & Experience
+
+Species Distribution Modeling\
+Machine Learning (Predictive and Explainable)\
+Random Forests\
+Data Science Product Management\
+MLOps\
+Participatory Science\
+Remote Sensing\
+Geovisualization\
+Geographic Information Science\
+Ornithology\

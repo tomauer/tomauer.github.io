@@ -6,13 +6,11 @@ website:
   title: "Tom Auer"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
+      - file: index.qmd
         text: About
-      - href: projects.qmd
+      - file: projects.qmd
         text: Projects
-      - href: pres.qmd
+      - file: pres.qmd
         text: Presentations
 
 format:
