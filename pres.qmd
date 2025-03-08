@@ -2,4 +2,25 @@
 title: "Presentations"
 ---
 
-Coming soon.
+Along with contributing to publications that support projects I work on, in my role as a product manager I particularly enjoy giving presentations and workshops, where I work to help translate the complex data science projects I work on into understandable stories for a range of audiences, with a goal of helping people buy-in to the work and data products generated. I'm always interested in opportunities for giving presentations on my current work and also am interested in potential podcast or radio opportunities, especially at the intersection of birds, participatory science, and data science. Please feel free to [contact me](mailto:mthomasauer@gmail.com) about either of these opportunitites.
+
+Below is a selection of presentations I've given at various conferences, workshops, and seminars. These presentations showcase my work and insights across a range of topics.
+
+## 2025
+
+- **eBird & Merlin: Participatory Science to Action** - *Golden-winged Society trip to Little St. Simon's Island* - 2025-02-12
+
+## 2024
+
+- **Combining Participatory Science In-Situ Observations with Remote Sensing Data Products to Monitor and Explain Changes in Global Avian Biodiversity: Methodological Challenges and Remote Sensing Data Needs** - *AGU 2024, Washington, D.C.* - Poster - 2025-12-12
+- **[eBird Status and Trends: Analyzing community science data at scale to generate actionable data products for conservation](https://www.youtube.com/watch?v=2sXvUCbT8vE)** - *Salt City Data Community* - Online - 2024-10-12
+- **eBird Status & Trends Data Analysis Workshop Series: [Introduction](https://youtu.be/DWqgbsMH1yU?si=bz2R8tgIQIaDeYlx), [eBird Status Data Products Applications](https://youtu.be/xduYPkQnbEo?si=rqLoikm4YcMnswgk), [eBird Trends Data Products Application](https://youtu.be/N7dDUXpcANE?si=T19DKeK_SsDe7BTt)** - *Birds of the World Webinars* - Online - 2024-10
+  - Lead by Matt Strimas-Mackey, along with Andrew Stillman
+- **eBird Status and Trends: Analyzing community science data at scale to generate actionable data products for conservation** - *Golden-winged Society Weekend* - Ithaca, NY - 2024-06-21
+- **eBird Status and Trends: Analyzing citizen science data at scale to generate actionable data products for conservation** - *Alaska U.S. Fish & Wildlife* - Online - 2024-03-07
+
+## 2023
+
+*More coming soon*
+
+- **[Estimating Abundance and Trends for the World’s Birds using eBird data](https://youtu.be/VKh9L6hjdlM?si=KQxSnLA6zBg_vQKi)** - Birds of the World Webinars - Online - 2023-04-27

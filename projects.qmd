@@ -2,4 +2,16 @@
 title: "Projects"
 ---
 
-Coming soon.
+## eBird Status and Trends
+
+[eBird Status and Trends](https://science.ebird.org/en/status-and-trends) delivers valuable data products on birds across the world, providing estimates of **relative abundance** and **trends** in bird populations. These data products are derived from machine learning models applied to the vast eBird participatory science dataset, offering critical insights for conservation and research.
+
+[![eBird Status and Trends](naswar-abundance-map-v2022-en.png)](https://science.ebird.org/en/status-and-trends)
+
+Over the past eight years, I've had the privilege of co-leading this impactful initiative, contributing in diverse roles as a data scientist, technical project manager, and product manager along with a team of incredible people. My work has been instrumental in:
+
+*   **Data Science & Abundance/Trend Modeling:** I've focused on the data science underpinning eBird Status and Trends, specifically the development and refinement of machine learning models to generate **relative abundance** and **trend** estimates.  I've helped design and build complex machine learning models (primarily in R) and an ensemble workflow to process eBird data and produce accurate, high-resolution data layers representing bird occurrence, abundance, and population trends across space and time.
+*   **Technical Project Management & Data Pipelines:** I've managed the technical infrastructure responsible for generating these data products. This involves overseeing the engineering of workflows and data pipelines that process large amounts of eBird data, ensuring the efficient and reliable production of **relative abundance** and **trend** data layers.
+*   **Product Strategy & Data Product Delivery:** As product manager, I've guided the strategic direction of eBird Status and Trends with a focus on maximizing the utility of our data products. This includes defining product roadmaps centered on **relative abundance** and **trend** data, prioritizing features that enhance data accessibility and usability, and engaging with stakeholders to ensure these data products effectively serve conservation, research, and policy needs.
+
+eBird Status and Trends provides essential data products for informed bird conservation and ecological research. By offering robust estimates of **relative abundance** and **trends**, the project empowers researchers and conservationists to understand population dynamics, assess conservation needs, and track the effectiveness of conservation actions.  Explore the data products and learn more about the project on the [eBird Status and Trends website](https://science.ebird.org/en/status-and-trends). For technical details about the statistical methodology behind these data products, refer to the [ebirdst R package documentation](https://ebird.github.io/ebirdst/).
