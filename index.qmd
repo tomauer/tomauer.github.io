@@ -9,9 +9,11 @@ format: html
 Center for Avian Population Studies\
 Cornell Lab of Ornithology\
 
+*Updated March 8, 2025.*
+
 ### About
 
-I help lead a team of data scientists and engineers that translate raw participatory science data (eBird) into actionable data products about avian biodiversity (eBird Status and Trends). With a background in ornithology, geographic information science, and recent experience with machine learning, I enjoy sitting at the intersection of avian ecology and data science, working collaboratively to architect, scale, and deploy machine learning to generate usable data products for managing and conserving bird populations.
+I help lead a team of data scientists and engineers that translate raw participatory science data ([eBird](https://ebird.org/home)) into actionable data products about avian biodiversity ([eBird Status and Trends](https://science.ebird.org/en/status-and-trends)). With a background in ornithology, geographic information science, and recent experience with machine learning, I enjoy sitting at the intersection of avian ecology and data science, working collaboratively to architect, scale, and deploy machine learning to generate usable data products for managing and conserving bird populations, and giving presentations to help people understand our work.
 
 [Email](mailto:mthomasauer@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=-ctK6KUAAAAJ&hl=en){target="_blank"} | [LinkedIn](https://www.linkedin.com/in/tom-auer-6b0808256/){target="_blank"} | [Github](https://github.com/tomauer){target="_blank"} | [eBird Profile](https://ebird.org/profile/MTkwMDY){target="_blank"} | [Bluesky](https://bsky.app/profile/tomauer.bsky.social){target="_blank"}\
 
@@ -39,3 +41,14 @@ I help lead a team of data scientists and engineers that translate raw participa
     </td>
   </tr>
 </table>
+
+### Open for Opportunities
+
+I'm always interested in:
+
+- giving presentations on my current work
+- sharing my expertise and knowledge as a board member or consultant
+- participating in podcasts or radio programs, especially at the intersection of birds, participatory science, and data science
+
+
+Please feel free to [contact me](mailto:mthomasauer@gmail.com) about opportunities like these.
